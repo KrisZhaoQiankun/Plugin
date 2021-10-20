@@ -1,1 +1,0 @@
-简单点就是ErrorDialog组件
